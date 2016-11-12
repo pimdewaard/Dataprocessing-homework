@@ -5,7 +5,7 @@
   </head>
   <body>
     <h1>Temperature graph</h1>
-    <h3> Graph 1. Average dayly temperature de Bilt, Holland, year 2015.</h3>
+    <h3> Graph 1. Average dayly temperature of 2015 in de Bilt (NL).</h3>
     <textarea id="rawdata">
     #date,maxtemp
      20150101,   30
@@ -374,34 +374,37 @@
      20151230,   69
      20151231,   78
    </textarea>
-   <canvas id="grapharea" width="600" height="500" >
+   <canvas id="grapharea" width="750" height="750" >
    </canvas>
-    <meta charset="utf-8"/>
-    <script type="application/javascript">
+    <script type="application/javascript" >
     function draw() {
+      // makes two arrays where the data from the textarea can be stored
       dates = []
       temps = []
+
+      // gets data from texarea and splits it line by line
       var textArea = document.getElementById("rawdata");
       var data = textArea.value.split("\n");
 
+      // everyline gets splitsed by the comma and gets stored in element
       for (i = 1; i < (data.length -1); i++){
         var element = data[i].split(",");
-        var date = element[0];
-        var letter = date.charAt(4);
-        console.log(letter);
 
+        // date numbers have to be transformed to actual javascipt dates
+        var date = String(parseInt(element[0]));
+        var year = date.substring(0,4);
+        var month = date.substring(4,6);
+        var day = date.substring(6,8);
+        var correctdate = new Date(year, month-1, day).getTime();
+
+        dates.push(correctdate);
         temps.push(parseInt(element[1]));
       }
 
-      var tempmin = Math.min( ...temps);
-      var  tempmax = Math.max( ...temps);
+      var temprange = createTransform([Math.min( ...temps), Math.max( ...temps)], [25, 300]);
+      var daterange = createTransform([dates[0], dates[dates.length-1]], [0, 590]);
 
-      var datamin = dates[0];
-      var datamax = dates[dates.length-1];
-
-      var temprange = createTransform([tempmin, tempmax], [0, 350]);
-      var daterange = createTransform([datamin, datamax], [0, 600]);
-
+      // transformation of actual data to screen data
       function createTransform(domain, range){
         var alpha = (range[1]-range[0])/(domain[1]-domain[0])
         var beta = range[0] - (alpha * domain[0])
@@ -411,37 +414,78 @@
         };
       }
 
-
-
       var c = document.getElementById("grapharea");
       var line = c.getContext("2d");
 
+      // drawing of x and y axis of graph
       line.beginPath();
-      line.moveTo(0,0);
-      line.lineTo(0,500);
-      line.lineTo(600, 500);
+      line.moveTo(50,50);
+      line.lineTo(50,550);
+      line.moveTo(60, 550);
+      line.lineTo(650,550);
       line.stroke();
 
+      // drawing of centigrade points on y axis
       line.beginPath()
       for (i = 1; i < 12; i++){
-      line.moveTo(0 ,i*50)
-      line.lineTo(10, i*50)
+      line.moveTo(40 ,i*50)
+      line.lineTo(50, i*50)
+      line.fillText( 450 - (i*50) ,13, (50 * i) + 2);
       }
       line.stroke();
 
+      // drawing of month denunciator
+      line.beginPath()
+      for (i = 2; i < 14; i++){
+      line.moveTo( i*50 , 550)
+      line.lineTo(i*50, 560)
+      }
+      line.stroke();
+
+      // drawing of temperature line in graph
       line.beginPath();
       line.lineWidth="0.7";
       line.strokeStyle="blue"; // Green path
       line.moveTo(daterange[0],temprange[0]);
       for (i = 1; i < dates.length; i++){
-      line.lineTo(daterange(dates[i]), 450 - temprange(temps[i]));
-      console.log(daterange(dates[i]))
-
-
-    }
+      line.lineTo(60 + daterange(dates[i]), 500 - temprange(temps[i]));
+      }
       line.stroke();
 
+      // writing text aligned with y axis
+      // saving current state of canvas
+      line.save();
+      // making point underneath top left corner
+      line.translate(8 , 300 );
+      // rotating text to align with y axis
+      line.rotate( -1*Math.PI / 2 );
+      // text details, font alignment and actual text
+      line.font = "12px serif";
+      line.textAlign = "center";
+      line.fillText("Average dayly Temperature (in 0.1 centigrades)", 0, 0 );
+      // restoring canvas
+      line.restore();
 
+      line.font = "16px serif";
+      line.fillText("Months of 2015", 300 ,680)
+      // array with months to write under x axis
+      var months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+
+      // for loop for writing the correct month on the correct place on the x axis
+      for (i = 0; i < months.length; i ++){
+      // saving current state of canvas
+      line.save();
+      // gets every month of array months on the correct place on the x axis
+      line.translate(50 +( i*50), 630);
+      // rotates the text in correct angle
+      line.rotate(-1*Math.PI / 3);
+      // text details, font, alignment and actual text of i'th elemnt of array months
+      line.font = "16px serif";
+      line.textAlign = "left";
+      line.fillText(months[i], 0, 0);
+      // restoring canvas
+      line.restore();
+      }
     }
 </script>
 </head>
