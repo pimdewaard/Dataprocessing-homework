@@ -49,7 +49,7 @@ function changeColor() {
       else if (death>55.0){
       document.getElementById(country).style.fill = "#c7e9b4"}
       else if (death>50.0){
-      document.getElementById(country).style.fill = "#edf8b"}
+      document.getElementById(country).style.fill = "#edf8b1"}
       else if (death<50.0 && death > 0){
       document.getElementById(country).style.fill = "#ffffd9"}
 
