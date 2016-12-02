@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<!-- Pim de Waard 5894778 -->
+<body>
+  <script src="http://d3js.org/d3.v3.min.js"></script>
+  <script src="http://d3js.org/topojson.v1.min.js"></script>
+  <script src="http://datamaps.github.io/scripts/datamaps.world.min.js?v=1"></script>
+
+  <h2>Population density (2010) per country in the world</h2>
+
+  <i>Data aquired from:</i><br/>
+
+  <a href="https://github.com/tillnagel/unfolding/blob/master/data/data/countries-population-density.csv">
+        https://github.com/tillnagel/unfolding/blob/master/data/data/countries-population-density.csv</a> <br/><br/>
+
+  <div id="basic" style="position: relative; height: 500px; width: 960px"></div>
+
+  <link rel="stylesheet" type="text/css" href="d3map.css"/>
+
+  <script src="d3map.js"></script> <br/><br/>
+
+  <p>I chose for a simple pop menu, containing  the text: "people per square kilometer", the country where the mouse is hovering at the moment and
+    the raw data (rounded to integers). Background color and color of the water was chosen to better show the contrast between the data label with
+    lowest population density and surrouding elements.</p>
+
+  <p>Pim de Waard</p>
+
+  <p>Data Processing</p>
+</body>
