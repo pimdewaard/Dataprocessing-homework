@@ -1,0 +1,1177 @@
+{
+    "AFG": {
+        "other": 0.3209,
+        "pocket": 73.2551,
+        "public": 26.424
+    },
+    "AGO": {
+        "other": 11.2398,
+        "pocket": 24.9921,
+        "public": 63.7681
+    },
+    "ALB": {
+        "other": 0.1572,
+        "pocket": 49.9856,
+        "public": 49.8572
+    },
+    "AND": {
+        "other": 7.2751,
+        "pocket": 19.2398,
+        "public": 73.4851
+    },
+    "ARB": {
+        "other": 7.0997,
+        "pocket": 30.882,
+        "public": 62.0184
+    },
+    "ARE": {
+        "other": 9.3412,
+        "pocket": 16.8847,
+        "public": 73.7741
+    },
+    "ARG": {
+        "other": 13.4132,
+        "pocket": 23.0273,
+        "public": 63.5594
+    },
+    "ARM": {
+        "other": 0.7427,
+        "pocket": 47.0456,
+        "public": 52.2117
+    },
+    "ATG": {
+        "other": 8.0993,
+        "pocket": 23.0148,
+        "public": 68.8859
+    },
+    "AUS": {
+        "other": 13.4114,
+        "pocket": 17.9383,
+        "public": 68.6503
+    },
+    "AUT": {
+        "other": 8.21,
+        "pocket": 16.6803,
+        "public": 75.1097
+    },
+    "AZE": {
+        "other": 8.5913,
+        "pocket": 69.8292,
+        "public": 21.5795
+    },
+    "BDI": {
+        "other": 11.2308,
+        "pocket": 25.7957,
+        "public": 62.9735
+    },
+    "BEL": {
+        "other": 4.4566,
+        "pocket": 18.7291,
+        "public": 76.8143
+    },
+    "BEN": {
+        "other": 9.5663,
+        "pocket": 35.8771,
+        "public": 54.5566
+    },
+    "BFA": {
+        "other": 0.0633,
+        "pocket": 42.7712,
+        "public": 57.1655
+    },
+    "BGD": {
+        "other": 5.6909,
+        "pocket": 61.3202,
+        "public": 32.989
+    },
+    "BGR": {
+        "other": 1.4644,
+        "pocket": 43.9131,
+        "public": 54.6225
+    },
+    "BHR": {
+        "other": 11.902,
+        "pocket": 18.0344,
+        "public": 70.0637
+    },
+    "BHS": {
+        "other": 24.4669,
+        "pocket": 28.7007,
+        "public": 46.8324
+    },
+    "BIH": {
+        "other": 0.9035,
+        "pocket": 27.8136,
+        "public": 71.2829
+    },
+    "BLR": {
+        "other": 2.829,
+        "pocket": 26.643,
+        "public": 70.528
+    },
+    "BLZ": {
+        "other": 10.138,
+        "pocket": 23.3953,
+        "public": 66.4667
+    },
+    "BOL": {
+        "other": 6.4111,
+        "pocket": 25.2658,
+        "public": 68.3231
+    },
+    "BRA": {
+        "other": 27.9888,
+        "pocket": 26.8453,
+        "public": 45.1659
+    },
+    "BRB": {
+        "other": 6.829,
+        "pocket": 30.86,
+        "public": 62.311
+    },
+    "BRN": {
+        "other": 0.1734,
+        "pocket": 7.8042,
+        "public": 92.0224
+    },
+    "BTN": {
+        "other": 0.6541,
+        "pocket": 11.7852,
+        "public": 87.5606
+    },
+    "BWA": {
+        "other": 33.4982,
+        "pocket": 4.8536,
+        "public": 61.6482
+    },
+    "CAF": {
+        "other": 4.8278,
+        "pocket": 45.8724,
+        "public": 49.2998
+    },
+    "CAN": {
+        "other": 15.0605,
+        "pocket": 13.998,
+        "public": 70.9415
+    },
+    "CEB": {
+        "other": 5.6276,
+        "pocket": 21.5564,
+        "public": 72.816
+    },
+    "CHE": {
+        "other": 9.3667,
+        "pocket": 26.4089,
+        "public": 64.2244
+    },
+    "CHL": {
+        "other": 18.8805,
+        "pocket": 33.5415,
+        "public": 47.578
+    },
+    "CHN": {
+        "other": 9.3388,
+        "pocket": 34.7708,
+        "public": 55.8904
+    },
+    "CIV": {
+        "other": 17.0399,
+        "pocket": 57.484,
+        "public": 25.4761
+    },
+    "CMR": {
+        "other": 17.6933,
+        "pocket": 48.6985,
+        "public": 33.6082
+    },
+    "COD": {
+        "other": 25.6681,
+        "pocket": 38.8208,
+        "public": 35.5111
+    },
+    "COG": {
+        "other": 1.1588,
+        "pocket": 27.9714,
+        "public": 70.8698
+    },
+    "COL": {
+        "other": 8.779,
+        "pocket": 15.6284,
+        "public": 75.5926
+    },
+    "COM": {
+        "other": 23.9491,
+        "pocket": 48.8778,
+        "public": 27.1731
+    },
+    "CPV": {
+        "other": 3.2064,
+        "pocket": 24.2486,
+        "public": 72.545
+    },
+    "CRI": {
+        "other": 2.3883,
+        "pocket": 24.126,
+        "public": 73.4857
+    },
+    "CSS": {
+        "other": 13.6869,
+        "pocket": 32.5618,
+        "public": 53.7512
+    },
+    "CUB": {
+        "other": 0.0,
+        "pocket": 4.9628,
+        "public": 95.0372
+    },
+    "CYP": {
+        "other": 8.6215,
+        "pocket": 44.8416,
+        "public": 46.5369
+    },
+    "CZE": {
+        "other": 1.075,
+        "pocket": 14.7405,
+        "public": 84.1845
+    },
+    "DEU": {
+        "other": 10.232,
+        "pocket": 13.7795,
+        "public": 75.9885
+    },
+    "DJI": {
+        "other": 0.3286,
+        "pocket": 42.0482,
+        "public": 57.6232
+    },
+    "DMA": {
+        "other": 2.9406,
+        "pocket": 26.5054,
+        "public": 70.554
+    },
+    "DNK": {
+        "other": 1.876,
+        "pocket": 12.819,
+        "public": 85.305
+    },
+    "DOM": {
+        "other": 9.6438,
+        "pocket": 28.6253,
+        "public": 61.7309
+    },
+    "DZA": {
+        "other": 0.793,
+        "pocket": 27.8717,
+        "public": 71.3354
+    },
+    "EAP": {
+        "other": 9.5685,
+        "pocket": 35.0561,
+        "public": 55.3754
+    },
+    "EAR": {
+        "other": 11.2268,
+        "pocket": 40.1222,
+        "public": 48.6511
+    },
+    "EAS": {
+        "other": 7.0999,
+        "pocket": 23.3873,
+        "public": 69.5127
+    },
+    "ECA": {
+        "other": 2.96,
+        "pocket": 37.1945,
+        "public": 59.8455
+    },
+    "ECS": {
+        "other": 7.9884,
+        "pocket": 16.7602,
+        "public": 75.2514
+    },
+    "ECU": {
+        "other": 10.151,
+        "pocket": 45.9385,
+        "public": 43.9105
+    },
+    "EGY": {
+        "other": 3.8321,
+        "pocket": 56.6652,
+        "public": 39.5027
+    },
+    "EMU": {
+        "other": 9.5379,
+        "pocket": 14.4036,
+        "public": 76.0586
+    },
+    "ERI": {
+        "other": 0.0,
+        "pocket": 54.0061,
+        "public": 45.9939
+    },
+    "ESP": {
+        "other": 5.4281,
+        "pocket": 20.7082,
+        "public": 73.8637
+    },
+    "EST": {
+        "other": 3.1244,
+        "pocket": 17.5572,
+        "public": 79.3184
+    },
+    "ETH": {
+        "other": 11.1914,
+        "pocket": 31.7634,
+        "public": 57.0453
+    },
+    "EUU": {
+        "other": 8.67,
+        "pocket": 14.0142,
+        "public": 77.3158
+    },
+    "FCS": {
+        "other": 7.6041,
+        "pocket": 47.6689,
+        "public": 44.727
+    },
+    "FIN": {
+        "other": 6.2442,
+        "pocket": 18.8121,
+        "public": 74.9437
+    },
+    "FJI": {
+        "other": 11.9923,
+        "pocket": 21.9989,
+        "public": 66.0088
+    },
+    "FRA": {
+        "other": 16.2788,
+        "pocket": 6.6924,
+        "public": 77.0289
+    },
+    "FSM": {
+        "other": 0.2178,
+        "pocket": 8.6416,
+        "public": 91.1406
+    },
+    "GAB": {
+        "other": 9.4743,
+        "pocket": 23.1681,
+        "public": 67.3576
+    },
+    "GBR": {
+        "other": 7.545,
+        "pocket": 9.302,
+        "public": 83.153
+    },
+    "GEO": {
+        "other": 16.9877,
+        "pocket": 64.8862,
+        "public": 18.1261
+    },
+    "GHA": {
+        "other": 9.4787,
+        "pocket": 16.1462,
+        "public": 74.375
+    },
+    "GIN": {
+        "other": 7.0081,
+        "pocket": 51.2003,
+        "public": 41.7916
+    },
+    "GMB": {
+        "other": 19.1697,
+        "pocket": 20.9846,
+        "public": 59.8457
+    },
+    "GNB": {
+        "other": 32.737,
+        "pocket": 48.074,
+        "public": 19.189
+    },
+    "GNQ": {
+        "other": 3.1894,
+        "pocket": 17.938,
+        "public": 78.8726
+    },
+    "GRC": {
+        "other": 2.8996,
+        "pocket": 28.7124,
+        "public": 68.388
+    },
+    "GRD": {
+        "other": 1.7212,
+        "pocket": 50.3978,
+        "public": 47.8809
+    },
+    "GTM": {
+        "other": 10.1119,
+        "pocket": 55.6233,
+        "public": 34.2648
+    },
+    "GUY": {
+        "other": 2.5075,
+        "pocket": 30.2361,
+        "public": 67.2564
+    },
+    "HIC": {
+        "other": 23.5025,
+        "pocket": 13.6582,
+        "public": 62.8393
+    },
+    "HND": {
+        "other": 4.0475,
+        "pocket": 50.2378,
+        "public": 45.7147
+    },
+    "HPC": {
+        "other": 14.8176,
+        "pocket": 41.5065,
+        "public": 43.6759
+    },
+    "HRV": {
+        "other": 7.7302,
+        "pocket": 12.0629,
+        "public": 80.2069
+    },
+    "HTI": {
+        "other": 57.0297,
+        "pocket": 25.6266,
+        "public": 17.3437
+    },
+    "HUN": {
+        "other": 8.5312,
+        "pocket": 27.3123,
+        "public": 64.1565
+    },
+    "IBD": {
+        "other": 11.9746,
+        "pocket": 35.4596,
+        "public": 52.5657
+    },
+    "IBT": {
+        "other": 11.8391,
+        "pocket": 36.2978,
+        "public": 51.8632
+    },
+    "IDA": {
+        "other": 9.6089,
+        "pocket": 50.0849,
+        "public": 40.3061
+    },
+    "IDB": {
+        "other": 6.4819,
+        "pocket": 54.2474,
+        "public": 39.2708
+    },
+    "IDN": {
+        "other": 14.6821,
+        "pocket": 47.3949,
+        "public": 37.923
+    },
+    "IDX": {
+        "other": 12.7532,
+        "pocket": 45.8996,
+        "public": 41.3472
+    },
+    "IND": {
+        "other": 8.4279,
+        "pocket": 64.4344,
+        "public": 27.1377
+    },
+    "IRL": {
+        "other": 14.5031,
+        "pocket": 17.6539,
+        "public": 67.843
+    },
+    "IRN": {
+        "other": 9.6225,
+        "pocket": 55.5812,
+        "public": 34.7963
+    },
+    "IRQ": {
+        "other": 0.0,
+        "pocket": 24.9285,
+        "public": 75.0715
+    },
+    "ISL": {
+        "other": 1.4513,
+        "pocket": 17.9751,
+        "public": 80.5736
+    },
+    "ISR": {
+        "other": 13.0199,
+        "pocket": 24.5202,
+        "public": 62.4599
+    },
+    "ITA": {
+        "other": 3.8973,
+        "pocket": 20.9633,
+        "public": 75.1395
+    },
+    "JAM": {
+        "other": 13.4568,
+        "pocket": 32.9082,
+        "public": 53.635
+    },
+    "JOR": {
+        "other": 8.8142,
+        "pocket": 20.7615,
+        "public": 70.4243
+    },
+    "JPN": {
+        "other": 3.4484,
+        "pocket": 13.9625,
+        "public": 82.5891
+    },
+    "KAZ": {
+        "other": 0.5295,
+        "pocket": 43.4554,
+        "public": 56.0151
+    },
+    "KEN": {
+        "other": 10.9275,
+        "pocket": 38.923,
+        "public": 50.1495
+    },
+    "KGZ": {
+        "other": 5.6167,
+        "pocket": 34.4926,
+        "public": 59.8907
+    },
+    "KHM": {
+        "other": 15.0395,
+        "pocket": 61.2102,
+        "public": 23.7503
+    },
+    "KIR": {
+        "other": 17.6864,
+        "pocket": 0.0979,
+        "public": 82.2157
+    },
+    "KNA": {
+        "other": 7.0603,
+        "pocket": 54.5003,
+        "public": 38.4394
+    },
+    "KOR": {
+        "other": 9.6708,
+        "pocket": 34.4005,
+        "public": 55.9288
+    },
+    "KWT": {
+        "other": 1.3044,
+        "pocket": 12.4893,
+        "public": 86.2062
+    },
+    "LAC": {
+        "other": 18.3141,
+        "pocket": 30.6428,
+        "public": 51.0431
+    },
+    "LAO": {
+        "other": 10.1785,
+        "pocket": 51.7716,
+        "public": 38.0498
+    },
+    "LBN": {
+        "other": 15.5297,
+        "pocket": 45.9521,
+        "public": 38.5183
+    },
+    "LBR": {
+        "other": 35.8788,
+        "pocket": 29.1585,
+        "public": 34.9627
+    },
+    "LBY": {
+        "other": 0.0,
+        "pocket": 36.6877,
+        "public": 63.3123
+    },
+    "LCA": {
+        "other": 0.7862,
+        "pocket": 56.1905,
+        "public": 43.0234
+    },
+    "LCN": {
+        "other": 18.31,
+        "pocket": 30.6513,
+        "public": 51.0387
+    },
+    "LDC": {
+        "other": 13.3176,
+        "pocket": 45.1886,
+        "public": 41.4938
+    },
+    "LIC": {
+        "other": 20.4635,
+        "pocket": 37.9281,
+        "public": 41.6084
+    },
+    "LKA": {
+        "other": 9.8539,
+        "pocket": 48.0637,
+        "public": 42.0825
+    },
+    "LMC": {
+        "other": 8.054,
+        "pocket": 56.5324,
+        "public": 35.4136
+    },
+    "LMY": {
+        "other": 11.7968,
+        "pocket": 36.6789,
+        "public": 51.5244
+    },
+    "LSO": {
+        "other": 7.0998,
+        "pocket": 15.8131,
+        "public": 77.0871
+    },
+    "LTE": {
+        "other": 12.4525,
+        "pocket": 31.9757,
+        "public": 55.5718
+    },
+    "LTU": {
+        "other": 3.86,
+        "pocket": 27.0157,
+        "public": 69.1243
+    },
+    "LUX": {
+        "other": 4.1651,
+        "pocket": 10.5504,
+        "public": 85.2845
+    },
+    "LVA": {
+        "other": 4.4036,
+        "pocket": 32.0954,
+        "public": 63.5011
+    },
+    "MAR": {
+        "other": 7.5981,
+        "pocket": 57.5404,
+        "public": 34.8616
+    },
+    "MCO": {
+        "other": 4.6346,
+        "pocket": 7.0,
+        "public": 88.3654
+    },
+    "MDA": {
+        "other": 9.5011,
+        "pocket": 40.443,
+        "public": 50.0559
+    },
+    "MDG": {
+        "other": 7.6201,
+        "pocket": 34.8703,
+        "public": 57.5096
+    },
+    "MDV": {
+        "other": 5.6594,
+        "pocket": 25.2169,
+        "public": 69.1236
+    },
+    "MEA": {
+        "other": 8.5872,
+        "pocket": 35.6163,
+        "public": 55.7966
+    },
+    "MEX": {
+        "other": 4.2006,
+        "pocket": 45.048,
+        "public": 50.7514
+    },
+    "MHL": {
+        "other": 4.2097,
+        "pocket": 12.7657,
+        "public": 83.0246
+    },
+    "MIC": {
+        "other": 11.6794,
+        "pocket": 36.662,
+        "public": 51.6587
+    },
+    "MKD": {
+        "other": 0.0,
+        "pocket": 35.3678,
+        "public": 64.6322
+    },
+    "MLI": {
+        "other": 4.11,
+        "pocket": 50.1257,
+        "public": 45.7644
+    },
+    "MLT": {
+        "other": 2.5102,
+        "pocket": 30.1681,
+        "public": 67.3217
+    },
+    "MMR": {
+        "other": 5.2793,
+        "pocket": 78.7918,
+        "public": 15.9289
+    },
+    "MNA": {
+        "other": 6.5407,
+        "pocket": 48.5755,
+        "public": 44.8838
+    },
+    "MNE": {
+        "other": 0.0,
+        "pocket": 39.5424,
+        "public": 60.4576
+    },
+    "MNG": {
+        "other": 3.141,
+        "pocket": 38.5854,
+        "public": 58.2736
+    },
+    "MOZ": {
+        "other": 50.6989,
+        "pocket": 6.5632,
+        "public": 42.7379
+    },
+    "MRT": {
+        "other": 7.9024,
+        "pocket": 47.5234,
+        "public": 44.5742
+    },
+    "MUS": {
+        "other": 4.4444,
+        "pocket": 46.5744,
+        "public": 48.9812
+    },
+    "MWI": {
+        "other": 32.4141,
+        "pocket": 8.1826,
+        "public": 59.4033
+    },
+    "MYS": {
+        "other": 9.9856,
+        "pocket": 35.0754,
+        "public": 54.9391
+    },
+    "NAC": {
+        "other": 39.1982,
+        "pocket": 11.8574,
+        "public": 48.9444
+    },
+    "NAM": {
+        "other": 32.391,
+        "pocket": 7.0682,
+        "public": 60.5408
+    },
+    "NER": {
+        "other": 5.5542,
+        "pocket": 57.6121,
+        "public": 36.8337
+    },
+    "NGA": {
+        "other": 2.9841,
+        "pocket": 65.7816,
+        "public": 31.2343
+    },
+    "NIC": {
+        "other": 3.493,
+        "pocket": 32.6657,
+        "public": 63.8413
+    },
+    "NLD": {
+        "other": 8.2737,
+        "pocket": 5.4176,
+        "public": 86.3087
+    },
+    "NOR": {
+        "other": 0.8888,
+        "pocket": 14.6361,
+        "public": 84.4751
+    },
+    "NPL": {
+        "other": 10.4373,
+        "pocket": 41.3828,
+        "public": 48.1799
+    },
+    "NRU": {
+        "other": 5.2698,
+        "pocket": 1.9762,
+        "public": 92.754
+    },
+    "NZL": {
+        "other": 6.0235,
+        "pocket": 10.8657,
+        "public": 83.1108
+    },
+    "OED": {
+        "other": 23.3154,
+        "pocket": 13.9224,
+        "public": 62.7622
+    },
+    "OMN": {
+        "other": 7.3377,
+        "pocket": 10.8393,
+        "public": 81.823
+    },
+    "OSS": {
+        "other": 9.6388,
+        "pocket": 21.2403,
+        "public": 69.1209
+    },
+    "PAK": {
+        "other": 7.9193,
+        "pocket": 61.4867,
+        "public": 30.594
+    },
+    "PAN": {
+        "other": 5.1722,
+        "pocket": 26.9776,
+        "public": 67.8503
+    },
+    "PER": {
+        "other": 9.5451,
+        "pocket": 37.196,
+        "public": 53.2589
+    },
+    "PHL": {
+        "other": 11.8059,
+        "pocket": 57.7422,
+        "public": 30.4519
+    },
+    "PLW": {
+        "other": 12.835,
+        "pocket": 16.7132,
+        "public": 70.4518
+    },
+    "PNG": {
+        "other": 8.0459,
+        "pocket": 10.1945,
+        "public": 81.7597
+    },
+    "POL": {
+        "other": 7.4372,
+        "pocket": 22.284,
+        "public": 70.2789
+    },
+    "PRE": {
+        "other": 9.1172,
+        "pocket": 47.9126,
+        "public": 42.9701
+    },
+    "PRT": {
+        "other": 8.2906,
+        "pocket": 25.1596,
+        "public": 66.5498
+    },
+    "PRY": {
+        "other": 5.1761,
+        "pocket": 54.8611,
+        "public": 39.9628
+    },
+    "PSS": {
+        "other": 7.7363,
+        "pocket": 13.1275,
+        "public": 79.1361
+    },
+    "PST": {
+        "other": 23.7431,
+        "pocket": 13.514,
+        "public": 62.7429
+    },
+    "QAT": {
+        "other": 7.9778,
+        "pocket": 13.8562,
+        "public": 78.1659
+    },
+    "ROU": {
+        "other": 0.4589,
+        "pocket": 20.3168,
+        "public": 79.2243
+    },
+    "RUS": {
+        "other": 2.4614,
+        "pocket": 43.3559,
+        "public": 54.1827
+    },
+    "RWA": {
+        "other": 34.6525,
+        "pocket": 28.8915,
+        "public": 36.456
+    },
+    "SAS": {
+        "other": 8.2006,
+        "pocket": 63.5044,
+        "public": 28.295
+    },
+    "SAU": {
+        "other": 13.7,
+        "pocket": 16.3032,
+        "public": 69.9968
+    },
+    "SDN": {
+        "other": 2.8127,
+        "pocket": 65.3377,
+        "public": 31.8496
+    },
+    "SEN": {
+        "other": 10.9322,
+        "pocket": 37.4515,
+        "public": 51.6163
+    },
+    "SGP": {
+        "other": 4.437,
+        "pocket": 61.3218,
+        "public": 34.2412
+    },
+    "SLB": {
+        "other": 3.2954,
+        "pocket": 4.3151,
+        "public": 92.3896
+    },
+    "SLE": {
+        "other": 12.76,
+        "pocket": 65.1546,
+        "public": 22.0854
+    },
+    "SLV": {
+        "other": 4.3566,
+        "pocket": 32.0732,
+        "public": 63.5702
+    },
+    "SMR": {
+        "other": 0.6353,
+        "pocket": 6.2698,
+        "public": 93.095
+    },
+    "SRB": {
+        "other": 1.7117,
+        "pocket": 36.1727,
+        "public": 62.1156
+    },
+    "SSA": {
+        "other": 25.6518,
+        "pocket": 29.2172,
+        "public": 45.131
+    },
+    "SSF": {
+        "other": 25.6413,
+        "pocket": 29.207,
+        "public": 45.1517
+    },
+    "SST": {
+        "other": 10.3648,
+        "pocket": 23.2119,
+        "public": 66.4233
+    },
+    "STP": {
+        "other": 27.9825,
+        "pocket": 24.1482,
+        "public": 47.8693
+    },
+    "SUR": {
+        "other": 36.9631,
+        "pocket": 13.7741,
+        "public": 49.2628
+    },
+    "SVK": {
+        "other": 6.4217,
+        "pocket": 22.6488,
+        "public": 70.9295
+    },
+    "SVN": {
+        "other": 14.7212,
+        "pocket": 11.7584,
+        "public": 73.5204
+    },
+    "SWE": {
+        "other": 1.916,
+        "pocket": 13.3613,
+        "public": 84.7228
+    },
+    "SWZ": {
+        "other": 17.4428,
+        "pocket": 13.2327,
+        "public": 69.3245
+    },
+    "SYC": {
+        "other": 0.6406,
+        "pocket": 4.7919,
+        "public": 94.5674
+    },
+    "SYR": {
+        "other": 0.0,
+        "pocket": 53.3752,
+        "public": 46.6248
+    },
+    "TCD": {
+        "other": 7.049,
+        "pocket": 44.5129,
+        "public": 48.4381
+    },
+    "TEA": {
+        "other": 9.5684,
+        "pocket": 35.0556,
+        "public": 55.376
+    },
+    "TEC": {
+        "other": 3.6566,
+        "pocket": 34.7025,
+        "public": 61.6408
+    },
+    "TGO": {
+        "other": 16.6131,
+        "pocket": 51.6102,
+        "public": 31.7768
+    },
+    "THA": {
+        "other": 6.8719,
+        "pocket": 8.6616,
+        "public": 84.4665
+    },
+    "TJK": {
+        "other": 9.9889,
+        "pocket": 61.423,
+        "public": 28.5881
+    },
+    "TKM": {
+        "other": 0.0,
+        "pocket": 35.9888,
+        "public": 64.0112
+    },
+    "TLA": {
+        "other": 18.634,
+        "pocket": 31.1099,
+        "public": 50.256
+    },
+    "TLS": {
+        "other": 0.0552,
+        "pocket": 10.6054,
+        "public": 89.3393
+    },
+    "TMN": {
+        "other": 6.5407,
+        "pocket": 48.5755,
+        "public": 44.8838
+    },
+    "TON": {
+        "other": 6.6331,
+        "pocket": 13.9774,
+        "public": 79.3895
+    },
+    "TSA": {
+        "other": 8.2006,
+        "pocket": 63.5044,
+        "public": 28.295
+    },
+    "TSS": {
+        "other": 25.6413,
+        "pocket": 29.207,
+        "public": 45.1517
+    },
+    "TTO": {
+        "other": 9.5588,
+        "pocket": 37.4359,
+        "public": 53.0053
+    },
+    "TUN": {
+        "other": 5.3221,
+        "pocket": 36.4329,
+        "public": 58.245
+    },
+    "TUR": {
+        "other": 5.0097,
+        "pocket": 15.4357,
+        "public": 79.5546
+    },
+    "TUV": {
+        "other": 0.0,
+        "pocket": 0.8118,
+        "public": 99.1882
+    },
+    "TZA": {
+        "other": 26.873,
+        "pocket": 29.6419,
+        "public": 43.4851
+    },
+    "UGA": {
+        "other": 35.58,
+        "pocket": 35.4503,
+        "public": 28.9697
+    },
+    "UKR": {
+        "other": 2.9616,
+        "pocket": 43.6355,
+        "public": 53.4029
+    },
+    "UMC": {
+        "other": 12.3884,
+        "pocket": 32.7762,
+        "public": 54.8355
+    },
+    "URY": {
+        "other": 18.1902,
+        "pocket": 17.2682,
+        "public": 64.5415
+    },
+    "USA": {
+        "other": 40.9634,
+        "pocket": 11.7008,
+        "public": 47.3358
+    },
+    "UZB": {
+        "other": 2.9331,
+        "pocket": 46.3619,
+        "public": 50.705
+    },
+    "VCT": {
+        "other": 0.0,
+        "pocket": 18.0091,
+        "public": 81.9909
+    },
+    "VEN": {
+        "other": 5.5919,
+        "pocket": 49.8804,
+        "public": 44.5276
+    },
+    "VNM": {
+        "other": 9.1948,
+        "pocket": 45.5751,
+        "public": 45.2301
+    },
+    "VUT": {
+        "other": 5.9153,
+        "pocket": 7.746,
+        "public": 86.3387
+    },
+    "WLD": {
+        "other": 21.2691,
+        "pocket": 18.0504,
+        "public": 60.6805
+    },
+    "WSM": {
+        "other": 4.4931,
+        "pocket": 7.5216,
+        "public": 87.9854
+    },
+    "YEM": {
+        "other": 1.0024,
+        "pocket": 72.2108,
+        "public": 26.7868
+    },
+    "ZAF": {
+        "other": 45.0195,
+        "pocket": 6.9858,
+        "public": 47.9947
+    },
+    "ZMB": {
+        "other": 16.4587,
+        "pocket": 33.1273,
+        "public": 50.414
+    },
+    "ZWE": {
+        "other": 27.2969,
+        "pocket": 39.0691,
+        "public": 33.6339
+    }
+}

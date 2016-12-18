@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<!-- Pim de Waard 5894778 -->
+<meta charset="utf-8">
+
+<head>
+    <title> Life expectancy per country </title>
+    <link rel="stylesheet" type="text/css" href="linkedviews.css" />
+    <script src="http://d3js.org/d3.v3.min.js"></script>
+    <script src="http://d3js.org/topojson.v1.min.js"></script>
+    <script src="http://datamaps.github.io/scripts/datamaps.world.min.js?v=1"></script>
+</head>
+
+<body>
+    <h1>Average life expectancy per country in 2010 </h1>
+    <i>Data aquired from:</i>
+    <br/>
+    <a href="http://data.worldbank.org/" target="_blank">http://data.worldbank.org/</a>
+    <br/><br/>
+
+    <li><a class="m" value="2014" href="#">2014</a></li>
+    <li><a class="m" value="2013" href="#">2013</a></li>
+    <li><a class="m" value="2012" href="#">2012</a></li>
+    <li><a class="m" value="2011" href="#">2011</a></li>
+    <li><a class="m" value="2010" href="#">2010</a></li>
+    <br/><br/>
+    <div id="basic" style="position: relative; height: 500px; width: 960px"></div>
+    <br/><br/>
+    <br/><br/>
+    <br/><br/><br/>
+
+
+    <script src="linkedviews.js"></script>
+    <ul class="legend">
+        <li><span class="pocket"></span>Out of pocket percentage of total health expenditure</li><br/>
+        <li><span class="public"></span>Public percentage of total health expenditure</li><br/>
+        <li><span class="other"></span>Percentage other of total health expenditure</li>
+    </ul>
+    <br/>
+    <h2> Distribution of health expenditure of clicked country </h2>
+
+    <div id="tooltip" class="hidden">
+        <p><span id="value"></span></p>
+    </div>
+
+    <p>Pim de Waard</p>
+    <p>Data Processing</p>
+</body>
+
+</html>

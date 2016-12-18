@@ -1,0 +1,978 @@
+{
+    "ABW": {
+        "Life_expectancy": 75,
+        "fillKey": 80
+    },
+    "AFG": {
+        "Life_expectancy": 60,
+        "fillKey": 65
+    },
+    "AGO": {
+        "Life_expectancy": 52,
+        "fillKey": 55
+    },
+    "ALB": {
+        "Life_expectancy": 78,
+        "fillKey": 80
+    },
+    "ARB": {
+        "Life_expectancy": 70,
+        "fillKey": 75
+    },
+    "ARE": {
+        "Life_expectancy": 77,
+        "fillKey": 80
+    },
+    "ARG": {
+        "Life_expectancy": 76,
+        "fillKey": 80
+    },
+    "ARM": {
+        "Life_expectancy": 75,
+        "fillKey": 80
+    },
+    "ATG": {
+        "Life_expectancy": 76,
+        "fillKey": 80
+    },
+    "AUS": {
+        "Life_expectancy": 82,
+        "fillKey": 100
+    },
+    "AUT": {
+        "Life_expectancy": 81,
+        "fillKey": 100
+    },
+    "AZE": {
+        "Life_expectancy": 71,
+        "fillKey": 75
+    },
+    "BDI": {
+        "Life_expectancy": 56,
+        "fillKey": 60
+    },
+    "BEL": {
+        "Life_expectancy": 81,
+        "fillKey": 100
+    },
+    "BEN": {
+        "Life_expectancy": 59,
+        "fillKey": 60
+    },
+    "BFA": {
+        "Life_expectancy": 58,
+        "fillKey": 60
+    },
+    "BGD": {
+        "Life_expectancy": 71,
+        "fillKey": 75
+    },
+    "BGR": {
+        "Life_expectancy": 75,
+        "fillKey": 80
+    },
+    "BHR": {
+        "Life_expectancy": 77,
+        "fillKey": 80
+    },
+    "BHS": {
+        "Life_expectancy": 75,
+        "fillKey": 80
+    },
+    "BIH": {
+        "Life_expectancy": 76,
+        "fillKey": 80
+    },
+    "BLR": {
+        "Life_expectancy": 72,
+        "fillKey": 75
+    },
+    "BLZ": {
+        "Life_expectancy": 70,
+        "fillKey": 75
+    },
+    "BMU": {
+        "Life_expectancy": 81,
+        "fillKey": 100
+    },
+    "BOL": {
+        "Life_expectancy": 68,
+        "fillKey": 70
+    },
+    "BRA": {
+        "Life_expectancy": 74,
+        "fillKey": 75
+    },
+    "BRB": {
+        "Life_expectancy": 75,
+        "fillKey": 80
+    },
+    "BRN": {
+        "Life_expectancy": 79,
+        "fillKey": 80
+    },
+    "BTN": {
+        "Life_expectancy": 69,
+        "fillKey": 70
+    },
+    "BWA": {
+        "Life_expectancy": 64,
+        "fillKey": 65
+    },
+    "CAF": {
+        "Life_expectancy": 50,
+        "fillKey": 55
+    },
+    "CAN": {
+        "Life_expectancy": 82,
+        "fillKey": 100
+    },
+    "CEB": {
+        "Life_expectancy": 76,
+        "fillKey": 80
+    },
+    "CHE": {
+        "Life_expectancy": 83,
+        "fillKey": 100
+    },
+    "CHI": {
+        "Life_expectancy": 80,
+        "fillKey": 100
+    },
+    "CHL": {
+        "Life_expectancy": 81,
+        "fillKey": 100
+    },
+    "CHN": {
+        "Life_expectancy": 76,
+        "fillKey": 80
+    },
+    "CIV": {
+        "Life_expectancy": 51,
+        "fillKey": 55
+    },
+    "CMR": {
+        "Life_expectancy": 55,
+        "fillKey": 60
+    },
+    "COD": {
+        "Life_expectancy": 58,
+        "fillKey": 60
+    },
+    "COG": {
+        "Life_expectancy": 62,
+        "fillKey": 65
+    },
+    "COL": {
+        "Life_expectancy": 74,
+        "fillKey": 75
+    },
+    "COM": {
+        "Life_expectancy": 63,
+        "fillKey": 65
+    },
+    "CPV": {
+        "Life_expectancy": 73,
+        "fillKey": 75
+    },
+    "CRI": {
+        "Life_expectancy": 79,
+        "fillKey": 80
+    },
+    "CSS": {
+        "Life_expectancy": 73,
+        "fillKey": 75
+    },
+    "CUB": {
+        "Life_expectancy": 79,
+        "fillKey": 80
+    },
+    "CYP": {
+        "Life_expectancy": 80,
+        "fillKey": 100
+    },
+    "CZE": {
+        "Life_expectancy": 78,
+        "fillKey": 80
+    },
+    "DEU": {
+        "Life_expectancy": 81,
+        "fillKey": 100
+    },
+    "DJI": {
+        "Life_expectancy": 62,
+        "fillKey": 65
+    },
+    "DNK": {
+        "Life_expectancy": 80,
+        "fillKey": 100
+    },
+    "DOM": {
+        "Life_expectancy": 73,
+        "fillKey": 75
+    },
+    "DZA": {
+        "Life_expectancy": 75,
+        "fillKey": 80
+    },
+    "EAP": {
+        "Life_expectancy": 74,
+        "fillKey": 75
+    },
+    "EAR": {
+        "Life_expectancy": 69,
+        "fillKey": 70
+    },
+    "EAS": {
+        "Life_expectancy": 75,
+        "fillKey": 80
+    },
+    "ECA": {
+        "Life_expectancy": 72,
+        "fillKey": 75
+    },
+    "ECS": {
+        "Life_expectancy": 77,
+        "fillKey": 80
+    },
+    "ECU": {
+        "Life_expectancy": 76,
+        "fillKey": 80
+    },
+    "EGY": {
+        "Life_expectancy": 71,
+        "fillKey": 75
+    },
+    "EMU": {
+        "Life_expectancy": 82,
+        "fillKey": 100
+    },
+    "ERI": {
+        "Life_expectancy": 63,
+        "fillKey": 65
+    },
+    "ESP": {
+        "Life_expectancy": 83,
+        "fillKey": 100
+    },
+    "EST": {
+        "Life_expectancy": 77,
+        "fillKey": 80
+    },
+    "ETH": {
+        "Life_expectancy": 63,
+        "fillKey": 65
+    },
+    "EUU": {
+        "Life_expectancy": 81,
+        "fillKey": 100
+    },
+    "FCS": {
+        "Life_expectancy": 61,
+        "fillKey": 65
+    },
+    "FIN": {
+        "Life_expectancy": 81,
+        "fillKey": 100
+    },
+    "FJI": {
+        "Life_expectancy": 70,
+        "fillKey": 75
+    },
+    "FRA": {
+        "Life_expectancy": 82,
+        "fillKey": 100
+    },
+    "FRO": {
+        "Life_expectancy": 81,
+        "fillKey": 100
+    },
+    "FSM": {
+        "Life_expectancy": 69,
+        "fillKey": 70
+    },
+    "GAB": {
+        "Life_expectancy": 64,
+        "fillKey": 65
+    },
+    "GBR": {
+        "Life_expectancy": 81,
+        "fillKey": 100
+    },
+    "GEO": {
+        "Life_expectancy": 75,
+        "fillKey": 80
+    },
+    "GHA": {
+        "Life_expectancy": 61,
+        "fillKey": 65
+    },
+    "GIN": {
+        "Life_expectancy": 58,
+        "fillKey": 60
+    },
+    "GMB": {
+        "Life_expectancy": 60,
+        "fillKey": 65
+    },
+    "GNB": {
+        "Life_expectancy": 55,
+        "fillKey": 60
+    },
+    "GNQ": {
+        "Life_expectancy": 57,
+        "fillKey": 60
+    },
+    "GRC": {
+        "Life_expectancy": 81,
+        "fillKey": 100
+    },
+    "GRD": {
+        "Life_expectancy": 73,
+        "fillKey": 75
+    },
+    "GTM": {
+        "Life_expectancy": 71,
+        "fillKey": 75
+    },
+    "GUM": {
+        "Life_expectancy": 79,
+        "fillKey": 80
+    },
+    "GUY": {
+        "Life_expectancy": 66,
+        "fillKey": 70
+    },
+    "HIC": {
+        "Life_expectancy": 80,
+        "fillKey": 100
+    },
+    "HKG": {
+        "Life_expectancy": 84,
+        "fillKey": 100
+    },
+    "HND": {
+        "Life_expectancy": 73,
+        "fillKey": 75
+    },
+    "HPC": {
+        "Life_expectancy": 60,
+        "fillKey": 65
+    },
+    "HRV": {
+        "Life_expectancy": 77,
+        "fillKey": 80
+    },
+    "HTI": {
+        "Life_expectancy": 62,
+        "fillKey": 65
+    },
+    "HUN": {
+        "Life_expectancy": 76,
+        "fillKey": 80
+    },
+    "IBD": {
+        "Life_expectancy": 72,
+        "fillKey": 75
+    },
+    "IBT": {
+        "Life_expectancy": 70,
+        "fillKey": 75
+    },
+    "IDA": {
+        "Life_expectancy": 63,
+        "fillKey": 65
+    },
+    "IDB": {
+        "Life_expectancy": 63,
+        "fillKey": 65
+    },
+    "IDN": {
+        "Life_expectancy": 69,
+        "fillKey": 70
+    },
+    "IDX": {
+        "Life_expectancy": 63,
+        "fillKey": 65
+    },
+    "IND": {
+        "Life_expectancy": 68,
+        "fillKey": 70
+    },
+    "IRL": {
+        "Life_expectancy": 81,
+        "fillKey": 100
+    },
+    "IRN": {
+        "Life_expectancy": 75,
+        "fillKey": 80
+    },
+    "IRQ": {
+        "Life_expectancy": 69,
+        "fillKey": 70
+    },
+    "ISL": {
+        "Life_expectancy": 82,
+        "fillKey": 100
+    },
+    "ISR": {
+        "Life_expectancy": 82,
+        "fillKey": 100
+    },
+    "ITA": {
+        "Life_expectancy": 83,
+        "fillKey": 100
+    },
+    "JAM": {
+        "Life_expectancy": 75,
+        "fillKey": 80
+    },
+    "JOR": {
+        "Life_expectancy": 74,
+        "fillKey": 75
+    },
+    "JPN": {
+        "Life_expectancy": 83,
+        "fillKey": 100
+    },
+    "KAZ": {
+        "Life_expectancy": 70,
+        "fillKey": 75
+    },
+    "KEN": {
+        "Life_expectancy": 61,
+        "fillKey": 65
+    },
+    "KGZ": {
+        "Life_expectancy": 70,
+        "fillKey": 75
+    },
+    "KHM": {
+        "Life_expectancy": 68,
+        "fillKey": 70
+    },
+    "KIR": {
+        "Life_expectancy": 66,
+        "fillKey": 70
+    },
+    "KOR": {
+        "Life_expectancy": 82,
+        "fillKey": 100
+    },
+    "KSV": {
+        "Life_expectancy": 71,
+        "fillKey": 75
+    },
+    "KWT": {
+        "Life_expectancy": 74,
+        "fillKey": 75
+    },
+    "LAC": {
+        "Life_expectancy": 74,
+        "fillKey": 75
+    },
+    "LAO": {
+        "Life_expectancy": 66,
+        "fillKey": 70
+    },
+    "LBN": {
+        "Life_expectancy": 79,
+        "fillKey": 80
+    },
+    "LBR": {
+        "Life_expectancy": 61,
+        "fillKey": 65
+    },
+    "LBY": {
+        "Life_expectancy": 72,
+        "fillKey": 75
+    },
+    "LCA": {
+        "Life_expectancy": 75,
+        "fillKey": 80
+    },
+    "LCN": {
+        "Life_expectancy": 75,
+        "fillKey": 80
+    },
+    "LDC": {
+        "Life_expectancy": 63,
+        "fillKey": 65
+    },
+    "LIC": {
+        "Life_expectancy": 61,
+        "fillKey": 65
+    },
+    "LIE": {
+        "Life_expectancy": 82,
+        "fillKey": 100
+    },
+    "LKA": {
+        "Life_expectancy": 75,
+        "fillKey": 80
+    },
+    "LMC": {
+        "Life_expectancy": 67,
+        "fillKey": 70
+    },
+    "LMY": {
+        "Life_expectancy": 69,
+        "fillKey": 70
+    },
+    "LSO": {
+        "Life_expectancy": 49,
+        "fillKey": 50
+    },
+    "LTE": {
+        "Life_expectancy": 75,
+        "fillKey": 80
+    },
+    "LTU": {
+        "Life_expectancy": 74,
+        "fillKey": 75
+    },
+    "LUX": {
+        "Life_expectancy": 82,
+        "fillKey": 100
+    },
+    "LVA": {
+        "Life_expectancy": 74,
+        "fillKey": 75
+    },
+    "MAC": {
+        "Life_expectancy": 80,
+        "fillKey": 100
+    },
+    "MAF": {
+        "Life_expectancy": 79,
+        "fillKey": 80
+    },
+    "MAR": {
+        "Life_expectancy": 74,
+        "fillKey": 75
+    },
+    "MDA": {
+        "Life_expectancy": 71,
+        "fillKey": 75
+    },
+    "MDG": {
+        "Life_expectancy": 65,
+        "fillKey": 70
+    },
+    "MDV": {
+        "Life_expectancy": 77,
+        "fillKey": 80
+    },
+    "MEA": {
+        "Life_expectancy": 73,
+        "fillKey": 75
+    },
+    "MEX": {
+        "Life_expectancy": 77,
+        "fillKey": 80
+    },
+    "MIC": {
+        "Life_expectancy": 70,
+        "fillKey": 75
+    },
+    "MKD": {
+        "Life_expectancy": 75,
+        "fillKey": 80
+    },
+    "MLI": {
+        "Life_expectancy": 58,
+        "fillKey": 60
+    },
+    "MLT": {
+        "Life_expectancy": 82,
+        "fillKey": 100
+    },
+    "MMR": {
+        "Life_expectancy": 66,
+        "fillKey": 70
+    },
+    "MNA": {
+        "Life_expectancy": 72,
+        "fillKey": 75
+    },
+    "MNE": {
+        "Life_expectancy": 76,
+        "fillKey": 80
+    },
+    "MNG": {
+        "Life_expectancy": 69,
+        "fillKey": 70
+    },
+    "MOZ": {
+        "Life_expectancy": 55,
+        "fillKey": 60
+    },
+    "MRT": {
+        "Life_expectancy": 63,
+        "fillKey": 65
+    },
+    "MUS": {
+        "Life_expectancy": 74,
+        "fillKey": 75
+    },
+    "MWI": {
+        "Life_expectancy": 61,
+        "fillKey": 65
+    },
+    "MYS": {
+        "Life_expectancy": 75,
+        "fillKey": 80
+    },
+    "NAC": {
+        "Life_expectancy": 79,
+        "fillKey": 80
+    },
+    "NAM": {
+        "Life_expectancy": 64,
+        "fillKey": 65
+    },
+    "NCL": {
+        "Life_expectancy": 77,
+        "fillKey": 80
+    },
+    "NER": {
+        "Life_expectancy": 61,
+        "fillKey": 65
+    },
+    "NGA": {
+        "Life_expectancy": 52,
+        "fillKey": 55
+    },
+    "NIC": {
+        "Life_expectancy": 75,
+        "fillKey": 80
+    },
+    "NLD": {
+        "Life_expectancy": 81,
+        "fillKey": 100
+    },
+    "NOR": {
+        "Life_expectancy": 82,
+        "fillKey": 100
+    },
+    "NPL": {
+        "Life_expectancy": 69,
+        "fillKey": 70
+    },
+    "NZL": {
+        "Life_expectancy": 81,
+        "fillKey": 100
+    },
+    "OED": {
+        "Life_expectancy": 80,
+        "fillKey": 100
+    },
+    "OMN": {
+        "Life_expectancy": 77,
+        "fillKey": 80
+    },
+    "OSS": {
+        "Life_expectancy": 66,
+        "fillKey": 70
+    },
+    "PAK": {
+        "Life_expectancy": 66,
+        "fillKey": 70
+    },
+    "PAN": {
+        "Life_expectancy": 77,
+        "fillKey": 80
+    },
+    "PER": {
+        "Life_expectancy": 74,
+        "fillKey": 75
+    },
+    "PHL": {
+        "Life_expectancy": 68,
+        "fillKey": 70
+    },
+    "PNG": {
+        "Life_expectancy": 62,
+        "fillKey": 65
+    },
+    "POL": {
+        "Life_expectancy": 77,
+        "fillKey": 80
+    },
+    "PRE": {
+        "Life_expectancy": 58,
+        "fillKey": 60
+    },
+    "PRI": {
+        "Life_expectancy": 79,
+        "fillKey": 80
+    },
+    "PRK": {
+        "Life_expectancy": 70,
+        "fillKey": 75
+    },
+    "PRT": {
+        "Life_expectancy": 81,
+        "fillKey": 100
+    },
+    "PRY": {
+        "Life_expectancy": 73,
+        "fillKey": 75
+    },
+    "PSE": {
+        "Life_expectancy": 73,
+        "fillKey": 75
+    },
+    "PSS": {
+        "Life_expectancy": 70,
+        "fillKey": 75
+    },
+    "PST": {
+        "Life_expectancy": 80,
+        "fillKey": 100
+    },
+    "PYF": {
+        "Life_expectancy": 76,
+        "fillKey": 80
+    },
+    "QAT": {
+        "Life_expectancy": 78,
+        "fillKey": 80
+    },
+    "ROU": {
+        "Life_expectancy": 75,
+        "fillKey": 80
+    },
+    "RUS": {
+        "Life_expectancy": 70,
+        "fillKey": 75
+    },
+    "RWA": {
+        "Life_expectancy": 63,
+        "fillKey": 65
+    },
+    "SAS": {
+        "Life_expectancy": 68,
+        "fillKey": 70
+    },
+    "SAU": {
+        "Life_expectancy": 74,
+        "fillKey": 75
+    },
+    "SDN": {
+        "Life_expectancy": 63,
+        "fillKey": 65
+    },
+    "SEN": {
+        "Life_expectancy": 66,
+        "fillKey": 70
+    },
+    "SGP": {
+        "Life_expectancy": 82,
+        "fillKey": 100
+    },
+    "SLB": {
+        "Life_expectancy": 68,
+        "fillKey": 70
+    },
+    "SLE": {
+        "Life_expectancy": 50,
+        "fillKey": 55
+    },
+    "SLV": {
+        "Life_expectancy": 73,
+        "fillKey": 75
+    },
+    "SOM": {
+        "Life_expectancy": 55,
+        "fillKey": 60
+    },
+    "SRB": {
+        "Life_expectancy": 75,
+        "fillKey": 80
+    },
+    "SSA": {
+        "Life_expectancy": 58,
+        "fillKey": 60
+    },
+    "SSD": {
+        "Life_expectancy": 55,
+        "fillKey": 60
+    },
+    "SSF": {
+        "Life_expectancy": 58,
+        "fillKey": 60
+    },
+    "SST": {
+        "Life_expectancy": 68,
+        "fillKey": 70
+    },
+    "STP": {
+        "Life_expectancy": 66,
+        "fillKey": 70
+    },
+    "SUR": {
+        "Life_expectancy": 71,
+        "fillKey": 75
+    },
+    "SVK": {
+        "Life_expectancy": 76,
+        "fillKey": 80
+    },
+    "SVN": {
+        "Life_expectancy": 80,
+        "fillKey": 100
+    },
+    "SWE": {
+        "Life_expectancy": 82,
+        "fillKey": 100
+    },
+    "SWZ": {
+        "Life_expectancy": 49,
+        "fillKey": 50
+    },
+    "SYC": {
+        "Life_expectancy": 73,
+        "fillKey": 75
+    },
+    "SYR": {
+        "Life_expectancy": 70,
+        "fillKey": 75
+    },
+    "TCD": {
+        "Life_expectancy": 51,
+        "fillKey": 55
+    },
+    "TEA": {
+        "Life_expectancy": 74,
+        "fillKey": 75
+    },
+    "TEC": {
+        "Life_expectancy": 72,
+        "fillKey": 75
+    },
+    "TGO": {
+        "Life_expectancy": 59,
+        "fillKey": 60
+    },
+    "THA": {
+        "Life_expectancy": 74,
+        "fillKey": 75
+    },
+    "TJK": {
+        "Life_expectancy": 69,
+        "fillKey": 70
+    },
+    "TKM": {
+        "Life_expectancy": 65,
+        "fillKey": 70
+    },
+    "TLA": {
+        "Life_expectancy": 75,
+        "fillKey": 80
+    },
+    "TLS": {
+        "Life_expectancy": 68,
+        "fillKey": 70
+    },
+    "TMN": {
+        "Life_expectancy": 72,
+        "fillKey": 75
+    },
+    "TON": {
+        "Life_expectancy": 73,
+        "fillKey": 75
+    },
+    "TSA": {
+        "Life_expectancy": 68,
+        "fillKey": 70
+    },
+    "TSS": {
+        "Life_expectancy": 58,
+        "fillKey": 60
+    },
+    "TTO": {
+        "Life_expectancy": 70,
+        "fillKey": 75
+    },
+    "TUN": {
+        "Life_expectancy": 74,
+        "fillKey": 75
+    },
+    "TUR": {
+        "Life_expectancy": 75,
+        "fillKey": 80
+    },
+    "TZA": {
+        "Life_expectancy": 64,
+        "fillKey": 65
+    },
+    "UGA": {
+        "Life_expectancy": 58,
+        "fillKey": 60
+    },
+    "UKR": {
+        "Life_expectancy": 71,
+        "fillKey": 75
+    },
+    "UMC": {
+        "Life_expectancy": 74,
+        "fillKey": 75
+    },
+    "URY": {
+        "Life_expectancy": 77,
+        "fillKey": 80
+    },
+    "USA": {
+        "Life_expectancy": 79,
+        "fillKey": 80
+    },
+    "UZB": {
+        "Life_expectancy": 68,
+        "fillKey": 70
+    },
+    "VCT": {
+        "Life_expectancy": 73,
+        "fillKey": 75
+    },
+    "VEN": {
+        "Life_expectancy": 74,
+        "fillKey": 75
+    },
+    "VIR": {
+        "Life_expectancy": 80,
+        "fillKey": 100
+    },
+    "VNM": {
+        "Life_expectancy": 75,
+        "fillKey": 80
+    },
+    "VUT": {
+        "Life_expectancy": 72,
+        "fillKey": 75
+    },
+    "WLD": {
+        "Life_expectancy": 71,
+        "fillKey": 75
+    },
+    "WSM": {
+        "Life_expectancy": 73,
+        "fillKey": 75
+    },
+    "YEM": {
+        "Life_expectancy": 64,
+        "fillKey": 65
+    },
+    "ZAF": {
+        "Life_expectancy": 57,
+        "fillKey": 60
+    },
+    "ZMB": {
+        "Life_expectancy": 59,
+        "fillKey": 60
+    },
+    "ZWE": {
+        "Life_expectancy": 56,
+        "fillKey": 60
+    }
+}
